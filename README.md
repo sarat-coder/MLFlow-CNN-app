@@ -27,4 +27,14 @@ pip install -r requirements.txt
 '''bash
 conda env export > conda.yaml
 ...
+## create a sh file
+'''bash
+touch init_setup.sh
+...
+#### copy and paste all aove commands in sh file
+## run the init_setup.sh
+...bash
+bash init_setup.sh
+...
+
 ## STEP 06- commit and push the changes to the remote repository
