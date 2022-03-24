@@ -2,6 +2,13 @@
 # MLflow-Project-template
 ## STEP 01- Create a repository by using template repository
 ## STEP 02- Clone the new repository
+## Open the project in vs code.
+## open terminal in bash mode
+## activate base env by using 
+...bash
+source activate base
+...
+
 ## STEP 03- Create a conda environment after opening the repository in VSCODE
 '''bash
 conda create --prefix ./env python=3.7 -y
